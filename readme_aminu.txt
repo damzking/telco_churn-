@@ -91,6 +91,17 @@ The following hypothesis will be tested
 
 7. The average number of churn for customers that have Yes values for seniorCitizen is greater than or equal to those with No values.
 
+8. The PAYMENT METHOD does not influence customer churn
+
+9. The average amount of TotalCharges for customers that churn is greater than or equal to those that did not churn
+10. The average number of tenure for customers that churn is less than or equal to those that did not churn
+
+11. The average number of churn for customers that have Month_to_Month contract is greater than or equal to those with 'One year' contract
+12.
+Gender does not influence customer churn
+13.
+The Internet service does not influence customer churn
+
 
 ###Data Dictionary
 customerID - Uniquely identify each customer
@@ -158,6 +169,7 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 - Imblearn
 - Custom Imputer
 - XG Boost
+- Pipeline
 
 ## Cleaning the Data 🧹
 #### We begin by thoroughly cleaning our data.
