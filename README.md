@@ -245,8 +245,7 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 
 
 
-![image](https://raw.githubusercontent.com/Koanim/Team-Lawrencium-Indian--startup-funding-Analysis-from-2018-to-2021/27fa53558e249dc650bb404ee9c6ba3610a18d23/exploratoty%20data.JPG
-![Exploratory Data Visualization](https://raw.githubusercontent.com/koanim/Team-Lawrencium-Indian--startup-funding-Analysis-from-2018-to-2021/branch/exploratory_data_viz.png)
+
 
 
 
