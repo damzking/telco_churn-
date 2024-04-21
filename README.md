@@ -183,6 +183,7 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 
 - Univariate Analysis
   https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/box%20plot.JPG
+  https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/box%20plot.JPG?raw=true
   
 
   
