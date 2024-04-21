@@ -187,7 +187,7 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 
   
 - Bivariate Analysis
-- 
+- https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/bivariate.JPG?raw=true
 
 
 
